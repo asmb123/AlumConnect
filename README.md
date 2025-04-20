@@ -104,7 +104,7 @@ cd AlumConnect
 
 ```bash
 npm install
-npx shadcn-ui@latest init
+npx shadcn@latest init
 npm install prisma --save-dev
 npx prisma init
 npx shadcn-ui@latest add input button
