@@ -3,8 +3,12 @@
 **A secure platform to connect college students with verified alumni.**  
 Created to foster real mentorship, meaningful opportunities, and strong campus communities.
 
+---
+
 ![Built with DevRhylme](https://img.shields.io/badge/Powered%20By-DevRhylme%20Foundation-blue?style=for-the-badge)
 ![Crafted by Iron Industry](https://img.shields.io/badge/Crafted%20By-Iron%20Industry-black?style=for-the-badge)
+
+---
 
 ## 🚀 About the Project
 
@@ -16,12 +20,16 @@ Created to foster real mentorship, meaningful opportunities, and strong campus c
 - 💬 **Connect**: Messaging, mentorship requests, Q&A
 - 📁 **Opportunities**: Internships, job referrals, campus events
 
+---
+
 ## 🔍 Why AlumConnect?
 
 Most alumni platforms are outdated, cluttered, or filled with spam.  
 AlumConnect is designed to be **lightweight**, **secure**, and **student-first** — with actual use cases collected from engineering colleges across India.
 
 We’re building this in public, open source, and with real feedback.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -35,6 +43,8 @@ We’re building this in public, open source, and with real feedback.
 | Dev Tools  | ESLint, Prettier, GitHub Actions (optional)         |
 | Deployment | Vercel                                              |
 | Design     | Figma (open to contributors)                        |
+
+---
 
 ## 📁 Project Structure
 
@@ -60,6 +70,9 @@ We’re building this in public, open source, and with real feedback.
 
 .env.local
 README.md
+```
+
+---
 
 ## 🧪 Project Status
 
@@ -76,6 +89,8 @@ README.md
 - [ ] Internship/Event Listings
 - [ ] SEO, Analytics, Mobile Polish
 
+---
+
 ## 👨‍💻 Getting Started
 
 ### 1. Clone the repository
@@ -83,11 +98,13 @@ README.md
 ```bash
 git clone https://github.com/DEVRhylme-Foundation/AlumConnect.git
 cd AlumConnect
+```
 
 ### 2. Install dependencies
 
 ```bash
 npm install
+```
 
 ### 3. Create `.env.local`
 
@@ -97,19 +114,24 @@ NEXTAUTH_SECRET=generate_one
 NEXTAUTH_URL=http://localhost:3000
 GOOGLE_CLIENT_ID=your_id
 GOOGLE_CLIENT_SECRET=your_secret
+```
 
 ### 4. Setup database
 
 ```bash
 npx prisma generate
 npx prisma migrate dev --name init
+```
 
 ### 5. Start dev server
 
-bash
+```bash
 npm run dev
+```
 
 Visit [http://localhost:3000](http://localhost:3000)
+
+---
 
 ## 🤝 Collaboration Model
 
@@ -120,6 +142,8 @@ All contributors, designers, and developers are welcome — credit is shared tra
 
 > 🧭 Strategic direction by: [Iron Industry](https://github.com/IronIndustry)  
 > 🛠️ Community powered by: [DevRhylme Foundation](https://github.com/DEVRhylme-Foundation)
+
+---
 
 ## 🧑‍🤝‍🧑 How to Contribute
 
@@ -133,16 +157,25 @@ We need help with:
 
 Join us via [DevRhylme Discord](https://discord.gg/your-invite) to get started or explore issues on GitHub.
 
+---
+
 ## ✨ Credits
 
 Huge thanks to every contributor building this platform!  
 Special mention to [Ghanshyam Singh](https://github.com/ghanshyam2005singh) for initiating and shaping the vision of **AlumConnect** under the Iron Industry ecosystem.
 
+---
+
 ## 📄 License
 
 This project is under the [MIT License](./LICENSE). Feel free to use, fork, contribute, and build. Just don’t forget to credit the community ❤️
 
+---
+
 > _“Built by students, for students. Driven by the community. Forged by Iron.”_
+```
+
+---
 
 ### ✅ Next Steps You Can Take:
 
